@@ -71,3 +71,7 @@ namespace Denombrements
         }
     }
 }
+// Ligne ajoutée pour test de revue
+
+Console.WriteLine("Test modification pour la revue");
+
